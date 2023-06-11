@@ -1,0 +1,64 @@
+      
+body{
+    font-family: "Helvetica", "Lucida Grande", sans-serif;
+    color: #3d3d3d
+}
+
+h1{
+    background-color: #ecd9c2;
+}
+
+#pilsen { 
+    width: 500px;
+	display: inline-block;
+}
+            
+#lager {
+    width: 500px;
+	display: inline-block;
+}
+
+#ipa { 
+    width: 500px;
+	display: inline-block;
+}
+
+#diretor { 
+    width: 500px;
+	display: inline-block; 
+}
+
+#mestre { 
+    width: 500px;
+	display: inline-block;
+}
+            
+#sommelier { 
+    width: 500px;
+	display: inline-block;
+}
+
+#formulario{
+    display: inline-block;
+}
+       
+label{
+    font-weight: bold;
+    font-size: 18px;
+    padding: 20px 10px 20px 10px;
+    text-align: right;
+}
+
+input {
+    font-size: 18px;
+    width: 30%;
+    padding: 10px 5px 5px 10px;
+    border-radius: 4px;
+    
+}
+
+button{
+    padding: 10px 10px ;
+    font-size: 18px;
+    font-weight: bold;
+}
